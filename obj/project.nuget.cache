@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XvXDyM/ITFwTerKaimb/CuiC73WxMqmRwH9sMG7DeXGmSWqY8yPIETRJwJLguwWu4XGk7aEk4Hh2MGMoURQDPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IDGCaptainRussia94\\source\\repos\\IDGTF2WeaponGenerator\\IDGTF2WeaponGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IDGCaptainRussia94\\.nuget\\packages\\cyotek.drawing.bitmapfont\\2.0.1\\cyotek.drawing.bitmapfont.2.0.1.nupkg.sha512",
+    "C:\\Users\\IDGCaptainRussia94\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\IDGCaptainRussia94\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\IDGCaptainRussia94\\.nuget\\packages\\spritefontplus\\0.9.2\\spritefontplus.0.9.2.nupkg.sha512",
+    "C:\\Users\\IDGCaptainRussia94\\.nuget\\packages\\stbimagesharp\\2.22.4\\stbimagesharp.2.22.4.nupkg.sha512",
+    "C:\\Users\\IDGCaptainRussia94\\.nuget\\packages\\stbtruetypesharp\\1.24.7\\stbtruetypesharp.1.24.7.nupkg.sha512"
+  ],
+  "logs": []
+}

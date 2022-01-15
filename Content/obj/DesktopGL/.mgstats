@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/IDGCaptainRussia94/source/repos/IDGTF2WeaponGenerator/Content/Assets/TF2.spritefont","C:/Users/IDGCaptainRussia94/source/repos/IDGTF2WeaponGenerator/Content/bin/DesktopGL/Assets/TF2.xnb","FontDescriptionProcessor","SpriteFontContent",2006,267298,0.3184143
+"C:/Users/IDGCaptainRussia94/source/repos/IDGTF2WeaponGenerator/Content/Assets/TF2Bold.spritefont","C:/Users/IDGCaptainRussia94/source/repos/IDGTF2WeaponGenerator/Content/bin/DesktopGL/Assets/TF2Bold.xnb","FontDescriptionProcessor","SpriteFontContent",2003,267298,0.0477777
+"C:/Users/IDGCaptainRussia94/source/repos/IDGTF2WeaponGenerator/Content/Assets/White.png","C:/Users/IDGCaptainRussia94/source/repos/IDGTF2WeaponGenerator/Content/bin/DesktopGL/Assets/White.xnb","TextureProcessor","Texture2DContent",1443,16469,0.1816274
